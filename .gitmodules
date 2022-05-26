@@ -7,3 +7,8 @@
 	path = quilsoft-org/account-financial-tools
 	url = git@github.com:quilsoft-org/account-financial-tools.git
 	branch = 14.0
+
+[submodule "quilsoft-org/odoo-argentina"]
+	path = quilsoft-org/odoo-argentina
+	url = git@github.com:quilsoft-org/odoo-argentina.git
+	branch = 14.0
