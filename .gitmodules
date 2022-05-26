@@ -2,3 +2,8 @@
 	path = quilsoft-org/account-payment
 	url = git@github.com:quilsoft-org/account-payment.git
 	branch = 14.0
+
+[submodule "quilsoft-org/account-financial-tools"]
+	path = quilsoft-org/account-financial-tools
+	url = git@github.com:quilsoft-org/account-financial-tools.git
+	branch = 14.0
