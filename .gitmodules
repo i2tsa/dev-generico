@@ -12,3 +12,8 @@
 	path = quilsoft-org/odoo-argentina
 	url = git@github.com:quilsoft-org/odoo-argentina.git
 	branch = 14.0
+
+[submodule "quilsoft-org/odoo-argentina-ce"]
+	path = quilsoft-org/odoo-argentina-ce
+	url = git@github.com:quilsoft-org/odoo-argentina-ce.git
+	branch = 14.0
