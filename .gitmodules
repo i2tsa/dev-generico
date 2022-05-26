@@ -22,3 +22,8 @@
 	path = i2tsa/others-dev
 	url = git@github.com:i2tsa/others-dev.git
 	branch = main
+
+[submodule "codize-app/odoo-argentina/l10n_ar_report_picking"]
+	path = codize-app/odoo-argentina/l10n_ar_report_picking
+	url = git@github.com:codize-app/odoo-argentina.git
+	branch = 14.0
